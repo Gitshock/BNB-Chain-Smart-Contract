@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to the address type",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/BEP20_GTFX.sol": "Address"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/BEP20_GTFX.sol": {
+			"keccak256": "0x3338dacce1f61eccd16e193bd90b325e85d94b3f23b5666e4f6435e6c508dc23",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://b31ea8c428b9cb21d35b72201198df1e4a9c2550af9892045a822844be66734b",
+				"dweb:/ipfs/QmYk9N85WeWVTtDYFR85Mtvpd7aFg9HDfZSP4v8rKczooM"
+			]
+		}
+	},
+	"version": 1
+}
